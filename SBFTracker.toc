@@ -1,0 +1,7 @@
+## Interface: 110002, 110005
+## Title: Superb Beast Fang Tracker
+## Author: toonmaterial
+## Version: 1.0.0
+## SavedVariables: SBFTrackerDB
+
+SBFTracker.lua
